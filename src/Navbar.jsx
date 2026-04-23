@@ -6,7 +6,8 @@ function Navbar() {
         <>
             <nav>
                 <ul>
-                    <li>
+                    <li className='handlogo'>
+                        <img src="/logo.jpg" alt="Logo" className='logo' />
                         <h2>Helmet.info</h2>
                     </li>
                     <li>
